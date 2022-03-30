@@ -1,0 +1,9 @@
+1 - underline border wali ko remove karna hai - done
+2 - register free heading ko top par le jana hai - done
+3 - Day ko Date me Replace karna hai - done
+4 - Living country me saari country show karni hai -done
+5 - Working country me sabhi country show karna hai - done
+6 - state dropdown me sabhi states show karni hai - 
+7 - city dropdown lagana hai - 
+8 - Home ki jagah Residence karna hai d- done
+9 - 

@@ -1,0 +1,19 @@
+1 - ID card  center ka according to layout
+2 - certificate center ka
+3 - certificate of registration center ka
+4 - certificate of authorization center ka
+5 - Welcome Letter
+6 - Branch Code - ceter code on show on certficate 
+7- Registration code - 3 difference dates on renewal certificate
+======================================================
+8 - Fees Management = 6000
+9 - 
+
+===============
+9 - Web Site Creation in php
+10 - Create a directory
+11 Generate 4 to 5 pages like home about contact gallery
+12- Add Dynamic data in pages like home about contact gallery
+13 - Give permission to change
+14 - delete a directory where website located (agar center aage renew ya kaam nahi kar raha hai)
+15  - 

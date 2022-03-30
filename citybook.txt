@@ -1,0 +1,23 @@
+Task done for citybook:
+
+1 - Add Member
+2 - Show Members
+3 - Features like Copy, CSV, Excel, PDF, Print done in Show members
+4 - Send Greeting
+5 - Send Greetings to all
+6 - Delete Member
+7 - Edit Member
+8 - Generate Dynamic Greetings behalf of Member data like details, photo and logo
+9 - Greetings Preview 
+10 - Add New Greeting
+11 - Show Greetings
+12 - Delete Greetings
+13 - Show Greetings in Popup
+14- Crop Feature added in Greeting to resize image download and upload it again
+15 - Show Sent Report for Greetings
+16 - Show Admin Users and Datatable features like member data
+17 - Add Admin User
+18 - Change password for admin
+19 - Delete Admin User
+20 - Edit Admin user
+21 - Change Photo and Logo for Member in member section
